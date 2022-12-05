@@ -1,2 +1,10 @@
 # projet_1
-website created by using HTML
+ 
+## INTRODUCTION
+*  website created by using HTML
+## TECHNOLOGIES
+*html
+*css
+*Bootstrap 
+
+
