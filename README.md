@@ -3,8 +3,8 @@
 ## INTRODUCTION
 *  website created by using HTML
 ## TECHNOLOGIES
-*html
-*css
-*Bootstrap 
+* html
+* css
+* Bootstrap 
 
 
