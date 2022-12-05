@@ -2,7 +2,7 @@
 ## Tourism
  
 ## INTRODUCTION
-*  website created by using HTML
+*  website created by using HTML,css
 ## TECHNOLOGIES
 * html
 * css
